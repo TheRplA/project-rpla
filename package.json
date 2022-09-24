@@ -1,0 +1,19 @@
+{
+  "name": "project-rpl",
+  "version": "1.0.0",
+  "description": "Website For My Classroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Duta",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-ejs-layouts": "^2.5.1",
+    "jquery": "^3.6.1",
+    "nodemon": "^2.0.20",
+    "popper.js": "^1.16.1"
+  }
+}
